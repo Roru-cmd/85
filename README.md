@@ -1,1 +1,1 @@
-# ou.github.io
+# github.io
